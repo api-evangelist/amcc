@@ -53,7 +53,7 @@ tags:
 - Chips
 - Processors
 - ARM
-- Data-Center
+- Data Center
 - Networking
 - Hardware
 tags_raw:
@@ -65,6 +65,7 @@ tags_raw:
 - Data Center
 - Networking
 - Hardware
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
